@@ -9,7 +9,9 @@
 </head>
 <body class=" w-full h-full">
     <div class=" flex flex-row w-full h-auto p-6 bg-amber-800 justify-between border-shadow">
-        <div></div>
+        <div>
+            <p>Anjay</p>
+        </div>
         <div></div>
         <div></div>
         <div></div>
