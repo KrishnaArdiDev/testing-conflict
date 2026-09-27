@@ -7,17 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title> </title>
 </head>
-<body class=" w-full h-full">
-    <div class=" flex flex-row w-full h-auto p-6 bg-amber-800 justify-between border-shadow">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
+<body>
+    <div class=" flex flex-row w-full h-auto px-8 py-3 bg-amber-800 justify-between border-shadow">
+        <div class=" w-3 h-5 bg-amber-500"></div>
+        <div class=" w-3 h-5 bg-black"></div>
+        <div class=" w-3 h-5 bg-white"></div>
     </div>
 </body>
 </html>
-
-<di>
-    <!-- Because you are alive, everything is possible. - Thich Nhat Hanh -->
-</di
