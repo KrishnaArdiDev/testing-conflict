@@ -8,5 +8,6 @@
 
 int main(){
     printf("Anjay");
+    printf("anjay");
     return 0;
 }
