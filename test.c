@@ -10,6 +10,7 @@ int main(){
     printf("Anjay");
     for (int i = 0; i <= 9; i++){
         printf("%d", i);
+        printf("testing");
     }
     return 0;
 }
