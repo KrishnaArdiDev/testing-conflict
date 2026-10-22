@@ -11,6 +11,7 @@ int main(){
     printf("anjay");
     for (int i = 0; i <= 9; i++){
         printf("%d", i);
+        printf("anjay");
     }
     return 0;
 }
