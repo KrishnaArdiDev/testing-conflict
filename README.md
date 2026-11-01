@@ -1,4 +1,0 @@
-﻿# testing-conflict
-
-
-test conflict 2
